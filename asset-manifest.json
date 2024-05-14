@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elena2022Kharkiv/useReducer-useContext-app.git/static/css/main.bd264c65.css",
+    "main.js": "/Elena2022Kharkiv/useReducer-useContext-app.git/static/js/main.f905316e.js",
+    "index.html": "/Elena2022Kharkiv/useReducer-useContext-app.git/index.html",
+    "main.bd264c65.css.map": "/Elena2022Kharkiv/useReducer-useContext-app.git/static/css/main.bd264c65.css.map",
+    "main.f905316e.js.map": "/Elena2022Kharkiv/useReducer-useContext-app.git/static/js/main.f905316e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd264c65.css",
+    "static/js/main.f905316e.js"
+  ]
+}
