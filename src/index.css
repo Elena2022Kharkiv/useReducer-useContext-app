@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 300px;
+  margin: 20px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+  padding: 7px;
+  font-size: 18px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  padding: 5px;
+  border: 1px solid silver;
+  justify-content: space-between;
+}
+
+.users-count {
+  margin: 20px 0;
+  padding: 5px;
+  border: 1px solid silver;
+}
+
+.user__edit {
+  border: 1px solid red;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.user-edit-form__input {
+  border: none;
+  outline: none;
+  font-size: 18px;
+  font-weight: bold;
+  width: 237px;
+}
+
+.user__btn,
+.users-edit-form__btn {
+  margin: 0 5px;  
+  font-size: 14px;
+}
